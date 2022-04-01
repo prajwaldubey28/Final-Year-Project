@@ -169,7 +169,7 @@ def undergraduatealgo():
      
 
                     <p align="center">
-                    <a class="btn btn-primary" href="templates\index.html" role="button">Home</a>
+                    <a class="btn btn-primary" href="/" role="button">Home</a>
                     <p>
                     
                 </div>
@@ -229,7 +229,7 @@ def graduatealgo():
      
 
                     <p align="center">
-                    <a class="btn btn-primary" href="templates\index.html" role="button">Home</a>
+                    <a class="btn btn-primary" href="/" role="button">Home</a>
                     <p>
                     
                 </div>
